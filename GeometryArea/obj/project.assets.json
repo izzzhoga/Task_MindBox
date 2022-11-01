@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program Files\\Git\\C#\\TestTaskMindBox\\GeometryArea\\GeometryArea.csproj",
+      "projectUniqueName": "D:\\Program Files\\Git\\C#\\Task_MindBox\\GeometryArea\\GeometryArea.csproj",
       "projectName": "GeometryArea",
-      "projectPath": "D:\\Program Files\\Git\\C#\\TestTaskMindBox\\GeometryArea\\GeometryArea.csproj",
+      "projectPath": "D:\\Program Files\\Git\\C#\\Task_MindBox\\GeometryArea\\GeometryArea.csproj",
       "packagesPath": "C:\\Users\\zaich\\.nuget\\packages\\",
-      "outputPath": "D:\\Program Files\\Git\\C#\\TestTaskMindBox\\GeometryArea\\obj\\",
+      "outputPath": "D:\\Program Files\\Git\\C#\\Task_MindBox\\GeometryArea\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\VisualStudio2019\\Shared\\NuGetPackages",
@@ -61,8 +61,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Program Files\\Git\\C#\\TestTaskMindBox\\GeometryLib\\GeometryLib.csproj": {
-              "projectPath": "D:\\Program Files\\Git\\C#\\TestTaskMindBox\\GeometryLib\\GeometryLib.csproj"
+            "D:\\Program Files\\Git\\C#\\Task_MindBox\\GeometryLib\\GeometryLib.csproj": {
+              "projectPath": "D:\\Program Files\\Git\\C#\\Task_MindBox\\GeometryLib\\GeometryLib.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GT4eSo5PHFgbn2cxlNy/ib72MOvlOyJIe3oCD/dQfc7EnWACTpkbz4nn8AiOIqNurvTlXGKSPWAnRDKW1Z7s+Q==",
+  "dgSpecHash": "MkOZ6V55VhemOsvyL51baTtcbbW/iMVbjGUOll9lU08SrKmEZMTnKFjjX8qrZLRcHwsIBV4olfbTkIGWadE07Q==",
   "success": true,
-  "projectFilePath": "D:\\Program Files\\Git\\C#\\TestTaskMindBox\\TestGeometryArea\\TestGeometryArea.csproj",
+  "projectFilePath": "D:\\Program Files\\Git\\C#\\Task_MindBox\\TestGeometryArea\\TestGeometryArea.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zaich\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\zaich\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

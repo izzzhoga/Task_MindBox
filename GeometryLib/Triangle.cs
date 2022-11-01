@@ -15,11 +15,11 @@ namespace GeometryLib
 				public Triangle(string name, double aSide, double bSide, double cSide) : base(name)
 				{
 						if (aSide < 0 || bSide < 0 || cSide < 0)
-								throw new Exception("Ошибка! Сторона треугольника должна иметь положительное значение!");
+								throw new Exception("Error! The side of the triangle must have a positive value!");
 						else if (aSide + bSide <= cSide
 								|| aSide + cSide <= bSide
 								|| cSide + bSide <= aSide)
-								throw new Exception("Ошибка! Сумма двух сторон треугольника должна быть больше длины третьей стороны");
+								throw new Exception("Error! The sum of the two sides of the triangle must be greater than the length of the third side!");
 						else
 						{
 								this.aSide = aSide;

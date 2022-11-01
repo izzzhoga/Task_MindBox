@@ -13,7 +13,7 @@ namespace GeometryLib
 				public Circle(string name, double radius) : base(name)
 				{
 						if (radius > 0) this.radius = radius;
-						else throw new Exception("Ошибка: Радиус должен быть положительным числом!");
+						else throw new Exception("Error: The radius must be a positive number!");
 				}
 
 				public double calcArea()

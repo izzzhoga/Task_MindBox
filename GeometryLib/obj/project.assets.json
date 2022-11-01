@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Program Files\\Git\\C#\\TestTaskMindBox\\GeometryLib\\GeometryLib.csproj",
+      "projectUniqueName": "D:\\Program Files\\Git\\C#\\Task_MindBox\\GeometryLib\\GeometryLib.csproj",
       "projectName": "GeometryLib",
-      "projectPath": "D:\\Program Files\\Git\\C#\\TestTaskMindBox\\GeometryLib\\GeometryLib.csproj",
+      "projectPath": "D:\\Program Files\\Git\\C#\\Task_MindBox\\GeometryLib\\GeometryLib.csproj",
       "packagesPath": "C:\\Users\\zaich\\.nuget\\packages\\",
-      "outputPath": "D:\\Program Files\\Git\\C#\\TestTaskMindBox\\GeometryLib\\obj\\",
+      "outputPath": "D:\\Program Files\\Git\\C#\\Task_MindBox\\GeometryLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files\\VisualStudio2019\\Shared\\NuGetPackages",

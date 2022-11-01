@@ -11,12 +11,12 @@ namespace GeometryArea
 		{
 				static void Main(string[] args)
 				{
-						Circle circle1 = new Circle("Круг", 10);
-						Console.WriteLine("Площадь круга равна: " + circle1.calcArea());
-						Triangle triangle1 = new Triangle("Треугольник", 5, 4, 3);
-						Console.WriteLine("Площадь треугольника равна: " + triangle1.calcArea());
+						Circle circle1 = new Circle("Circle", 10);
+						Console.WriteLine("The area of the circle is equal to: " + circle1.calcArea());
+						Triangle triangle1 = new Triangle("Triangle", 5, 4, 3);
+						Console.WriteLine("The area of the triangle is equal to: " + triangle1.calcArea());
 						if (triangle1.isRightTriangle())
-								Console.WriteLine("Треугольник правильный");
+								Console.WriteLine("The triangle is right");
 						Console.ReadKey();
 				}
 		}
