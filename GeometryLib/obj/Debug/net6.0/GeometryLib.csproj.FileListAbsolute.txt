@@ -1,0 +1,12 @@
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\bin\Debug\net6.0\GeometryLib.deps.json
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\bin\Debug\net6.0\GeometryLib.dll
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\bin\Debug\net6.0\GeometryLib.pdb
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\obj\Debug\net6.0\GeometryLib.csproj.AssemblyReference.cache
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\obj\Debug\net6.0\GeometryLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\obj\Debug\net6.0\GeometryLib.AssemblyInfoInputs.cache
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\obj\Debug\net6.0\GeometryLib.AssemblyInfo.cs
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\obj\Debug\net6.0\GeometryLib.csproj.CoreCompileInputs.cache
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\obj\Debug\net6.0\GeometryLib.dll
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\obj\Debug\net6.0\refint\GeometryLib.dll
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\obj\Debug\net6.0\GeometryLib.pdb
+D:\Program Files\Git\C#\TestTaskMindBox\GeometryLib\obj\Debug\net6.0\ref\GeometryLib.dll
